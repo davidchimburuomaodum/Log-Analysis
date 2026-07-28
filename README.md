@@ -47,29 +47,17 @@ The investigation involved identifying request patterns, counting HTTP methods, 
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
 Log-Analysis/
 │
 ├── README.md
 ├── SOC_Log_Analysis_Report.pdf
-│
-├── logs/
-│   ├── access-1.log
-│   ├── access-2.log
-│   └── apache_logs
-│
-└── evidence/
-    ├── screenshot1.png
-    ├── screenshot2.png
-    ├── screenshot3.png
-    ├── screenshot4.png
-    ├── screenshot5.png
-    ├── screenshot6.png
-    └── screenshot7.png
+├── access-1.log
+├── access-2.log
+└── apache_logs
 ```
-
 ---
 
 # 📊 Analysis Performed
@@ -94,30 +82,28 @@ awk
 sort
 uniq
 wc
+
 ```
 
 ---
 
-# 📑 Report Contents
+## 📑 Report Contents
 
 The investigation report includes:
 
 - Executive Summary
 - Analysis Methodology
 - Log Analysis Results
-- Evidence Screenshots
+- Supporting Command Outputs
 - Findings
 - Security Recommendations
-
 ---
 
-# 📸 Evidence
+## 📄 Report
 
-The **evidence/** directory contains screenshots showing the Linux commands executed and their corresponding outputs during the investigation.
+The **SOC_Log_Analysis_Report.pdf** contains the complete log analysis, including the Linux command outputs, screenshots, findings, and recommendations documented during the investigation.
 
----
-
-# 🎓 Skills Demonstrated
+## 🎓 Skills Demonstrated
 
 - Log Analysis
 - Linux Command Line
@@ -141,7 +127,7 @@ The **evidence/** directory contains screenshots showing the Linux commands exec
 
 **David Chimburuoma Odum**
 
-Cybersecurity Student | SOC & Blue Team Enthusiast
+Cybersecurity Analyst 
 
 ---
 
