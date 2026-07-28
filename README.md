@@ -6,7 +6,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-Kali-red?style=for-the-badge&logo=linux)
 ![Apache](https://img.shields.io/badge/Apache-Logs-D22128?style=for-the-badge&logo=apache)
-![Bash](https://img.shields.io/badge/Bash-Scripting-121011?style=for-the-badge&logo=gnubash)
+![Log Analysis](https://img.shields.io/badge/Log-Analysis-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
 
 *A practical log analysis project demonstrating the use of Linux command-line tools to examine Apache web server logs, extract meaningful security information, and generate a professional investigation report.*
