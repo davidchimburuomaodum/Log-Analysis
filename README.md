@@ -114,11 +114,11 @@ The **SOC_Log_Analysis_Report.pdf** contains the complete log analysis, includin
 
 ---
 
-# 🚀 Future Improvements
+## 🚀 Future Improvements
 
 - SIEM Integration
 - Automated Log Parsing
-- Bash Script Automation
+- Log Monitoring Automation
 - Log Visualization Dashboard
 
 ---
